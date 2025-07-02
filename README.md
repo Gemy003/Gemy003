@@ -2,7 +2,10 @@
 
 ## 👨‍💻 من أنا
 
-مرحبًا، أنا **محمد جمال**، مبرمج في **C#** وتطوير تطبيقات الويب باستخدام **ASP.NET**. أمتلك خبرة في بناء الأنظمة والتطبيقات التجارية، وبرمجة الواجهات الخلفية وقواعد البيانات باستخدام **SQL Server** و **ADO.NET**. مهتم بكتابة كود نظيف وتطوير حلول برمجية احترافية.
+مرحبًا، أنا **محمد جمال**، مبرمج في **C#** وتطوير تطبيقات الويب باستخدام **ASP.NET**.  
+أمتلك خبرة في بناء الأنظمة والتطبيقات التجارية، وبرمجة الواجهات الخلفية وقواعد البيانات باستخدام **SQL Server** و **ADO.NET**.  
+كما لدي مستوى متوسط في لغات **C++**، **HTML**، و**CSS**.  
+مهتم بكتابة كود نظيف وتطوير حلول برمجية احترافية.
 
 ---
 
@@ -13,7 +16,10 @@
 ![OOP](https://img.shields.io/badge/-OOP-000?&logo=code)  
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-000?&logo=microsoft-sql-server)  
 ![.NET Framework](https://img.shields.io/badge/-.NET%20Framework-000?&logo=dotnet)  
-![ADO.NET](https://img.shields.io/badge/-ADO.NET-000?&logo=data)
+![ADO.NET](https://img.shields.io/badge/-ADO.NET-000?&logo=data)  
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)  
+![HTML](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)  
+![CSS](https://img.shields.io/badge/-CSS3-000?&logo=css3&logoColor=1572B6)
 
 ---
 
@@ -34,8 +40,8 @@
 
 ## 📂 بعض مشاريعي
 
-[![](https://img.shields.io/badge/-🔐%20نظام%20تسجيل%20ودخول%20المستخدمين-000)](https://github.com/MohamedGamalDev/UserAuth)
-[![](https://img.shields.io/badge/-📊%20لوحة%20تحكم%20للمبيعات%20API-000)](https://github.com/MohamedGamalDev/SalesDashboardAPI)
+[![](https://img.shields.io/badge/-🔐%20نظام%20تسجيل%20ودخول%20المستخدمين-000)](https://github.com/MohamedGamalDev/UserAuth)  
+[![](https://img.shields.io/badge/-📊%20لوحة%20تحكم%20للمبيعات%20API-000)](https://github.com/MohamedGamalDev/SalesDashboardAPI)  
 [![](https://img.shields.io/badge/-🧾%20تطبيق%20إنشاء%20فواتير-000)](https://github.com/MohamedGamalDev/InvoiceApp)
 
 ---
