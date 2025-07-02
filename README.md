@@ -1,4 +1,4 @@
-[![](https://github.com/اسم-مستخدمك/اسم-المستودع/raw/main/mohamed_gamal_banner.gif)](https://github.com/MohamedGamalDev)
+[![](https://github.com/اسم-مستخدمك/اسم-المستودع/raw/main/mohamed_gamal_banner_static.png)](https://github.com/MohamedGamalDev)
 
 ## 👨‍💻 من أنا
 
